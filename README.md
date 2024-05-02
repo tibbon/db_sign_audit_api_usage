@@ -23,3 +23,9 @@ This will write API request IDs to `ids.txt` and the IP addresses to `ips.txt`
 This depends on `whois`.
 
 `./review_ip_usage.sh`
+
+## Thanks
+Additional thanks to @tpelissier23 and @bob-ats
+
+## License
+The source code for the site is licensed under the MIT license, which you can find in the LICENSE.txt file.
